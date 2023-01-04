@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Relational and Logical models" id="8EB88E5C-34B8-BD99-9E79-51FC05A6B74A" version="3.5">
+<createdBy>123</createdBy>
+<createdTime>2022-11-12 20:04:46 UTC</createdTime>
+<ownerDesignName>Homework_BD</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>8EB88E5C-34B8-BD99-9E79-51FC05A6B74A</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="C39E5C14-EBF9-3A77-BA19-2DFE205678EF">
+<designStoragePath>C:\enw</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
